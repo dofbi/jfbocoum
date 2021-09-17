@@ -1,10 +1,10 @@
-baseurl = "https://example.com"
-languageCode = "en"
-defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
+baseurl = "https://jfbocoum.netlify.app"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Jacqueline Fatima Bocoum"
 theme = "dream"
 
-# copyright = ""
+copyright = "Jacqueline Fatima Bocoum"
 
 # googleAnalytics = ""
 
@@ -18,25 +18,25 @@ theme = "dream"
   linkColor = "seagreen"
 
   # dark mode
-  # defaultDark = true
-  # backgroundDark = "black"
-  # backgroundImageDark = "/me/background-dark.jpg"
-  # darkLinkColor = "darkseagreen"
-  # darkNav = true
-  # dark404 = true
+  defaultDark = false
+  backgroundDark = "black"
+  #backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
 
-  author = "Yue Yang"
-  # description = ""
+  author = "Jacqueline Fatima Bocoum"
+  description = "Dans mon coeur débattent une auteure et une lectrice  sous les yeux d'une cinéphile passionnée qui adore -Dîner de cons-..."
   avatar = "/img/avatar.jpeg"
-  headerTitle = "Hugo Theme Dream"
-  motto = "Motto"
+  headerTitle = "Jacqueline Fatima Bocoum"
+  motto = "Écrivain"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
 
   # footerBottomText = ""
 
-  # rss = true
+  rss = true
 
   # utterancesRepo = ""
 
@@ -45,10 +45,10 @@ theme = "dream"
   # LEANCLOUD_APP_KEY = ""
   # VALINE_LANGUAGE = ""
 
-  email = "g1enyy0ung@gmail.com"
-  # twitter = ""
-  # facebook = ""
-  # instagram = ""
+  #email = "g1enyy0ung@gmail.com"
+  twitter = "fatima_bocoum"
+  #facebook = ""
+  instagram = "jfbocoum"
   # mastodon = ""
   # linkedin = ""
   # github = ""
@@ -66,7 +66,7 @@ theme = "dream"
   # highlightjsThemeDark = "gruvbox-dark"
 
   # search
-  # enableSearch = true
+  enableSearch = true
 
   # options
   # showSummaryCoverInPost = true
